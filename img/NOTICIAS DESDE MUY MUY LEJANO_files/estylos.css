@@ -18,13 +18,11 @@ body
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover; 
+    background-size: cover;
+    
 	font-family: papyrus;
 	font-size: 14px;
-	font-family: 'kranky', cursive;
 
-  
-   cursor: url(img/w.jpeg), url(img/w.jpeg),wait;
 }
 
 li
@@ -195,7 +193,6 @@ nav
 video{
 	width: 400px;
 	height: 250px;
-
+	
 }
-
 
